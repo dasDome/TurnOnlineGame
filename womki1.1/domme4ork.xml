@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Ork>
+    <rasse>Ork</rasse>
+    <name>domme4</name>
+    <id>1</id>
+    <angriff>11</angriff>
+    <gesundheit>10</gesundheit>
+    <verteidigung>18</verteidigung>
+    <bewegung>3</bewegung>
+    <gegenstände>
+        <MantelDerUnsichtbarkeit>
+            <angriff>0</angriff>
+            <verteidigung>5</verteidigung>
+            <bewegung>0</bewegung>
+            <gesundheit>0</gesundheit>
+        </MantelDerUnsichtbarkeit>
+        <Schild>
+            <angriff>0</angriff>
+            <verteidigung>3</verteidigung>
+            <bewegung>0</bewegung>
+            <gesundheit>0</gesundheit>
+        </Schild>
+    </gegenstände>
+</Ork>

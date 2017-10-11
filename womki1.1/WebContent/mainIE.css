@@ -1,0 +1,200 @@
+@CHARSET "ISO-8859-1";
+#hidden {
+	visibility:hidden;
+}
+body {
+	background-color:#f6f6f6;
+	background-image:url(Images/bg2.jpg);
+	background-repeat:no-repeat;
+	background-position:center top;
+}
+#main {
+	padding-top:100px;
+	width:910px;
+	margin:0px auto;
+}
+#links {
+	float:left;
+}
+#rechts {
+	float:right;
+}
+#karte {
+	float:left;
+	width:510px;
+}
+#spielerInformation {
+	float:right;
+	width:400px;
+	height:544px;
+	background-image:url(Images/spielerinfobg.png);
+}
+
+#oben {
+	height:100px;
+}
+#Spieleranzahl {
+	float:left;
+	width:500px;
+	background-color:#534631;
+}
+#errorbox {
+	float:right;
+	height:100px;
+	width:400px;
+	background-color:#e19925;
+	overflow:auto;
+}
+
+#bottom {
+	clear:both;
+	margin-top:20px;
+}
+
+#speicherDiv {
+	float:left;
+	margin-left:15px;
+}
+#verlassenDiv {
+	float:right;
+	margin-right:15px;
+}
+
+
+#spielerbild {
+	float:left;
+	width:151px;
+	margin-left:12px;
+	padding-top:39px;
+	color:#fff;
+}
+#info {
+	float:right;
+}
+#spielername{
+	float:left;
+	padding-top:45px;
+	padding-left:30px;
+	color:#fff;
+}
+#angriff{
+	float:left;
+	margin-left:60px;
+	color:#fff;
+	margin-top:26px;
+}
+#verteidigung {
+	float:right;
+	margin-right:55px;
+	color:#fff;
+	margin-top:26px;
+}
+
+#gesundheit {
+	margin-left:115px;
+	margin-top:19px;
+	color:#fff;	
+}
+#bewegung {
+	float:left;
+	margin-left:60px;
+	margin-top:16px;
+	color:#fff;
+}
+#scritte {
+	float:right;
+	margin-top:16px;
+	margin-right:55px;
+	color:#fff;
+}
+
+
+
+
+.buttonOben {
+	background: url('Images/btnOben.png') center no-repeat;
+	width:62px;
+	height:42px;
+	border:none;
+}
+.buttonRechts {
+	background: url('Images/btnRechts.png') center no-repeat;
+	width:62px;
+	height:42px;
+	border:none;
+}
+.buttonLinks {
+	background: url('Images/btnLinks.png') center no-repeat;
+	width:62px;
+	height:42px;
+	border:none;
+}
+.buttonUnten {
+	background: url('Images/btnUnten.png') center no-repeat;
+	width:62px;
+	height:42px;
+	border:none;
+}
+.buttonErholen {
+	background: url('Images/btnErholen.png') center no-repeat;
+	width:62px;
+	height:42px;
+	border:none;
+}
+
+
+.buttonOben:hover {
+	background: url('Images/btnOben2.png') center no-repeat;
+	width:62px;
+	height:42px;
+	border:none;
+}
+.buttonRechts:hover {
+	background: url('Images/btnRechts2.png') center no-repeat;
+	width:62px;
+	height:42px;
+	border:none;
+}
+.buttonLinks:hover {
+	background: url('Images/btnLinks2.png') center no-repeat;
+	width:62px;
+	height:42px;
+	border:none;
+}
+.buttonUnten:hover {
+	background: url('Images/btnUnten2.png') center no-repeat;
+	width:62px;
+	height:42px;
+	border:none;
+}
+.buttonErholen:hover {
+	background: url('Images/btnErholen2.png') center no-repeat;
+	width:62px;
+	height:42px;
+	border:none;
+}
+
+
+#amZugLabel {
+	margin-top:-3px!important;
+	padding-left:200px!important;
+	color:#fff;
+}
+#nichtAmZugLabel {
+	margin-top:-3px!important;
+	padding-left:180px!important;
+	color:#fff;
+}
+
+#clear {
+	clear:both;
+}
+#kontrollbereich {
+	clear:both;
+}
+#bewegenbuttons {
+	float:left;
+}
+#inventar {
+	float:right;
+}

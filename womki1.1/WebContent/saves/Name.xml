@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Zwerg>
+    <name>vector</name>
+    <id>1</id>
+    <angriff>10</angriff>
+    <gesundheit>8</gesundheit>
+    <verteidigung>8</verteidigung>
+    <bewegung>2</bewegung>
+    <gegenstände>
+        <VerfluchterUmhang>
+            <angriff>-2</angriff>
+            <verteidigung>-2</verteidigung>
+            <bewegung>0</bewegung>
+            <gesundheit>-2</gesundheit>
+            <runde>0</runde>
+        </VerfluchterUmhang>
+    </gegenstände>
+</Zwerg>
